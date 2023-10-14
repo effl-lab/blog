@@ -1,0 +1,3 @@
+[submodule "effl/public"]
+	path = effl/public
+	url = https://github.com/effl-lab/effl-lab.github.io.git

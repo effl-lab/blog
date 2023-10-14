@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/effl-lab/effl-lab.github.io.git/'
+baseURL = 'https://effl-lab.github.io/'
 languageCode = 'en-us'
 title = 'Effl-lab'
 theme='digitalgarden'
